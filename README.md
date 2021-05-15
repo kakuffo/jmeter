@@ -6,15 +6,15 @@ current (May - 2021) Stable release is 5.4.1 / January 22, 2021, and License und
 Design to realised ease of use for software engineers, Jmeter is modular in design, with the core functions
 afforded by JMeter organised into the following modular units;
 
-** Test Plan
-** ThreadGroup
-** Samplers
-** Listeners
-** WorkBench
-** Assertions
-** Config Element
-** Logic Controllers
-** Timer
+#### 1. Test Plan
+#### 2. ThreadGroup
+#### 3. Samplers
+#### 4. Listeners
+#### 5. WorkBench
+#### 6. Assertions
+#### 7. Config Element
+#### 8. Logic Controllers
+#### 9. Timer
 
 ### Overview
 
