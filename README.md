@@ -4,7 +4,17 @@ analyzing and measuring the performance of a variety of services, with a focus o
 JMeter is a 100% pure Java application, and was first released 1998-12-15 with version 1.0.  The
 current (May - 2021) Stable release is 5.4.1 / January 22, 2021, and License under Apache License 2.0.
 Design to realised ease of use for software engineers, Jmeter is modular in design, with the core functions
-afforded by JMeter
+afforded by JMeter organised into the following modular units;
+
+** Test Plan
+** ThreadGroup
+** Samplers
+** Listeners
+** WorkBench
+** Assertions
+** Config Element
+** Logic Controllers
+** Timer
 
 ### Overview
 
